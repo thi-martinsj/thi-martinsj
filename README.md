@@ -7,9 +7,9 @@
 I'm Thiago Martins, software engineer, technology lover, and IoT enthusiast.
 
 - I'm current working remotely as backend engineer ☕💻
-- I've been working on financial projects, such as PIX and Credit Engine
-- I'm current learning **Python**, **NodeJS**, **TDD**, and **React**
-- Feel free to reach me out 😜
+- I've been working on social media and financial projects
+- I'm currently coding in **Python**, **Node.js**, and **TypeScript**
+- Feel free to reach me out 😎
 
 ### Hard Skills
 
